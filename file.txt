@@ -1,0 +1,22 @@
+Loading "connect.js" tasks...[31mERROR[39m
+[31m>> [39mError: Cannot find module 'connect'
+
+[4mRunning "jshint:all" (jshint) task[24m
+
+√ No problems
+
+
+[4mRunning "jshint:test" (jshint) task[24m
+
+√ No problems
+
+
+[32mDone, without errors.[39m
+
+
+Execution Time (2015-05-15 12:53:31 UTC)
+loading tasks    6ms  ██ 4%
+jshint:all     120ms  ████████████████████████████████████████ 84%
+jshint:test     17ms  ██████ 12%
+Total 143ms
+
