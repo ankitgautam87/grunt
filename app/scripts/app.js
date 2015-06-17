@@ -1,7 +1,7 @@
 'use strict';
 
 /**
- * @ngdoc overview 2
+ * @ngdoc overview 23
  * @name jenkinsGruntApp
  * @description
  * # jenkinsGruntApp
